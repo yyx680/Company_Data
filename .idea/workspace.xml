@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c37c19ce-2db2-4e7d-a3ac-ef5b0d5c770a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Company_Data/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c37c19ce-2db2-4e7d-a3ac-ef5b0d5c770a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../Company_Data/out/" />
     <ignored path="$PROJECT_DIR$/../Company_Data/target/" />
     <ignored path="$PROJECT_DIR$/../Company_Data/company_data/target/" />
@@ -190,12 +188,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576312547638</updated>
-      <workItem from="1576312554549" duration="3431000" />
+      <workItem from="1576312554549" duration="3699000" />
     </task>
+    <task id="LOCAL-00001" summary="上市公司公开数据的采集和分析系统">
+      <created>1576317890002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576317890002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3431000" />
+    <option name="totallyTimeSpent" value="3699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -248,6 +254,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="上市公司公开数据的采集和分析系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="上市公司公开数据的采集和分析系统" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Company_Data/company_data/src/main/resources/application.properties">
