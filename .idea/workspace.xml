@@ -35,8 +35,8 @@
       <file leaf-file-name="CompanyDataApplication.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Company_Data/company_data/src/main/java/com/yyx/company_data/CompanyDataApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="275">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -60,6 +60,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../Company_Data/pom.xml" />
+        <option value="$PROJECT_DIR$/../Company_Data/company_data/src/main/java/com/yyx/company_data/CompanyDataApplication.java" />
       </list>
     </option>
   </component>
@@ -188,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576312547638</updated>
-      <workItem from="1576312554549" duration="3699000" />
+      <workItem from="1576312554549" duration="3955000" />
     </task>
     <task id="LOCAL-00001" summary="上市公司公开数据的采集和分析系统">
       <created>1576317890002</created>
@@ -197,11 +198,25 @@
       <option name="project" value="LOCAL" />
       <updated>1576317890002</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="上市公司公开数据的采集和分析系统">
+      <created>1576317927935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576317927935</updated>
+    </task>
+    <task id="LOCAL-00003" summary="上市公司公开数据的采集和分析系统">
+      <created>1576318039897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576318039897</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3699000" />
+    <option name="totallyTimeSpent" value="3955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -222,11 +237,11 @@
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.3298611" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3298611" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3298611" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" />
@@ -283,8 +298,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Company_Data/company_data/src/main/java/com/yyx/company_data/CompanyDataApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="275">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -364,6 +379,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
