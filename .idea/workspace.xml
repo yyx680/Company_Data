@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c37c19ce-2db2-4e7d-a3ac-ef5b0d5c770a" name="Default" comment="" />
+    <list default="true" id="c37c19ce-2db2-4e7d-a3ac-ef5b0d5c770a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Company_Data/company_data/src/main/java/com/yyx/company_data/CompanyDataApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Company_Data/company_data/src/main/java/com/yyx/company_data/CompanyDataApplication.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/../Company_Data/out/" />
     <ignored path="$PROJECT_DIR$/../Company_Data/target/" />
     <ignored path="$PROJECT_DIR$/../Company_Data/company_data/target/" />
@@ -35,8 +37,8 @@
       <file leaf-file-name="CompanyDataApplication.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Company_Data/company_data/src/main/java/com/yyx/company_data/CompanyDataApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="175">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -189,7 +191,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576312547638</updated>
-      <workItem from="1576312554549" duration="3955000" />
+      <workItem from="1576312554549" duration="4107000" />
     </task>
     <task id="LOCAL-00001" summary="上市公司公开数据的采集和分析系统">
       <created>1576317890002</created>
@@ -212,14 +214,22 @@
       <option name="project" value="LOCAL" />
       <updated>1576318039897</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="上市公司公开数据的采集和分析系统">
+      <created>1576318206554</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576318206554</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3955000" />
+    <option name="totallyTimeSpent" value="4107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -237,11 +247,11 @@
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3298611" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.3298611" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3298611" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3298611" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" />
@@ -271,6 +281,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="上市公司公开数据的采集和分析系统" />
     <option name="LAST_COMMIT_MESSAGE" value="上市公司公开数据的采集和分析系统" />
   </component>
@@ -298,8 +310,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Company_Data/company_data/src/main/java/com/yyx/company_data/CompanyDataApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="175">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
